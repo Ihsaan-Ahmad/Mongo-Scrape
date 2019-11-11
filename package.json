@@ -1,13 +1,13 @@
 {
-  "name": "mongo-scraper",
+  "name": "Web-Scraper",
   "version": "1.0.0",
-  "description": "Web app that lets users leave comments on the latest news.",
+  "description": "Web-Scraper",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Linette Hsu",
+  "author": "Ihsaan Ahmad",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
